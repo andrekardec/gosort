@@ -1,0 +1,12 @@
+options:
+  commitFilters:
+    types:
+      - feat
+      - fix
+      - chore
+      - docs
+      - style
+      - refactor
+      - test
+      - perf
+      - ci
